@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yitbarek17
 - 🌱 I’m currently learning ... C++, Python, Javascript
-- 📫 How to reach me ... Telegram https://t.me/babi_leo
+- 📫 How to reach me ... Telegram https://t.me/BabiGlow
 - 😄 Pronouns: ...He/Him
 
 <!---
